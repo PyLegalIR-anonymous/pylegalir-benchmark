@@ -1,0 +1,309 @@
+topic_id	Query
+58	Homicidio doloso
+59	Homicidio culposo
+60	Homicidio agravado
+62	Medidas alternativas a la prisión
+63	Desacato judicial
+64	Omisión de auxilio
+66	Allanamiento ilegal
+67	Tortura
+68	Abuso de autoridad
+69	Prevaricato
+70	Tráfico de influencias
+71	Cohecho pasivo
+72	Lesión de confianza
+73	Delitos informáticos
+74	Obstrucción de la investigación penal
+75	Anticipo jurisdiccional de prueba
+76	Criterio de oportunidad
+77	Prueba ilícita
+78	In dubio pro reo
+81	Violación de la intimidad
+82	Intervención de comunicaciones
+86	Responsabilidad penal adolescente
+87	Delitos contra el ambiente
+88	Conciliación penal
+89	Pena privativa de libertad
+90	Suspensión condicional del procedimiento
+91	Agravantes en delitos sexuales
+92	Responsabilidad penal por omisión
+93	Lesiones graves
+94	Falsificación de documentos públicos
+96	Ejecución penal
+97	Tentativa de un hecho punible
+98	Tipicidad penal
+99	Error de prohibición
+100	Legítima defensa
+101	Circunstancias atenuantes
+102	Violación del debido proceso
+103	Apelación especial
+104	Casación penal
+105	Revocatoria de medidas alternativas
+106	Principio de congruencia
+108	Reparación del daño
+109	Concurso real de hechos punibles
+110	Concurso ideal de hechos punibles
+111	Tentativa inidónea
+112	Eximente de responsabilidad penal
+113	Extinción de la acción penal
+114	Sobreseimiento definitivo
+115	Sobreseimiento provisional
+117	hecho punible de producción de incendios
+119	Agravante por reincidencia
+120	Desistimiento voluntario
+121	Secuestro
+122	Usurpación (Puede ser de inmuebles, funciones públicas, bienes públicos o de identidad.)
+123	Portación ilegal de armas
+124	Asociación criminal
+125	Amenaza
+127	Violación de domicilio
+128	Daño en propiedad ajena
+129	Delitos contra la propiedad intelectual
+131	Desacato a una orden judicial
+132	Usura
+133	Contrabando
+134	Evasión fiscal
+135	Falso testimonio
+136	Falsedad ideológica
+137	Falsificación de firmas
+140	Negligencia médica penal
+142	Amenaza coactiva (Coacción)
+143	Extorsión
+145	Imputación defectuosa
+146	Apremio ilegal
+147	Plazo procesal, preclusión
+148	Motivación de resoluciones judiciales
+149	Imputabilidad penal
+152	Incidente de prejudicialidad penal
+153	Delitos contra la administración pública
+154	Peculado
+155	Revisión de medidas cautelares
+156	Secuestro extorsivo
+158	Incitación a cometer hechos punibles
+159	Pornografía infantil
+160	Violencia doméstica agravada
+162	Delito fiscal (Ley N° 125/91)
+163	Daño ambiental penal (Ley N° 716/96)
+165	Desistimiento voluntario
+166	Errores procesales
+167	Conflicto de competencia penal
+169	Obligación de denunciar hechos punibles
+170	Prueba testimonial indirecta
+171	Abandono
+172	Competencia territorial penal
+173	Agravantes específicas del homicidio
+174	Suspensión de la ejecución de la pena
+175	Prueba documental
+176	Incidente de nulidad procesal
+177	incidente de recusación
+180	Violación del principio acusatorio
+181	Errores en la tipificación penal
+182	Cooperación judicial internacional
+183	Hecho punible consumado
+184	Prescripción de la ejecución penal
+185	Nulidad absoluta
+186	Nulidad relativa
+187	Impugnación de pericias
+188	Excepción de incompetencia
+189	Error judicial grave
+190	Prisión domiciliaria
+191	Indemnización penal
+192	hecho punible de evasión
+194	Medidas cautelares alternativas
+195	Citación directa
+196	Impugnación de pruebas ilegales
+197	Medios de prueba atípicos
+198	Revisión de sentencia penal firme
+199	Medidas de seguridad penal
+200	Proceso abreviado
+201	Hecho punible flagrante
+202	Sustracción de menores
+204	Daño moral penal
+205	Hecho punible de abandono familiar
+206	Rebeldía en proceso penal
+208	Tentativa de homicidio
+209	Lesión grave
+210	Lesión leve
+211	Violencia familiar
+212	Medidas cautelares, prisión domiciliaria
+213	Medidas cautelares, prohibición de acercamiento
+214	Medidas cautelares, caución
+215	Libertad ambulatoria, restricciones
+216	Reincidencia
+217	Acumulación de penas
+218	Circunstancias agravantes
+219	Participación criminal
+220	Autoría y coautoría
+221	Instigación
+222	Complicidad
+223	Consumación del hecho punible
+226	Actos preparatorios
+227	Tentativa de hecho punible
+228	Falsificación de documentos
+229	Uso de documento público falso
+230	Usurpación de funciones públicas
+231	Resistencia a la autoridad
+232	Invasión de inmueble ajeno
+233	Lesión de confianza
+234	Apropiación indebida
+235	Estafa informática
+236	Daño a cosas de interés público
+238	Amenaza de hecho punible
+239	Coacción
+240	Privación ilegítima de libertad
+241	Apropiación indebida
+242	Abandono de persona
+243	Desacato
+244	Maltrato infantil
+245	Producción de pornografía infantil
+246	Distribución de material pornográfico infantil
+247	Difusión de imágenes íntimas sin consentimiento
+248	Corrupción de menores
+249	Tenencia de drogas para consumo
+250	Tráfico de drogas
+251	Microtráfico de drogas
+252	Asociación para delinquir
+253	Lavado de activos
+256	Criterios de oportunidad
+257	Acuerdo reparatorio
+259	Investigación preliminar, plazos
+260	Etapa preparatoria
+261	Imputación sin evidencia suficiente
+262	Audiencia preliminar, nulidades
+263	Audiencia preliminar, control de acusación
+264	Audiencia preliminar, admisión de pruebas
+265	Audiencia preliminar, oposición a la acusación
+266	Querella adhesiva
+267	Querellante particular
+269	Acusación fiscal
+270	Cosa juzgada
+271	Reformatio in pejus
+272	Plazo razonable
+273	Principio de legalidad
+274	Principio de oportunidad
+275	Principio de lesividad
+277	Principio de humanidad
+278	Principio de igualdad ante la ley
+279	Presunción de inocencia
+280	Carga de la prueba
+281	Cadena de custodia
+282	Confesión del imputado
+283	Prueba testifical
+284	Testigo de oídas
+285	Peritación forense
+286	Valor probatorio de la pericia
+289	Reproducción de grabaciones
+290	Uso de cámaras Gesell
+291	Valoración integral de la prueba
+292	Sana crítica
+293	Duda razonable
+294	Sentencia absolutoria
+295	Sentencia condenatoria
+296	Motivación de la sentencia
+297	Apelación de sentencia
+298	Revisión de sentencia firme
+299	Recurso de casación
+300	Recurso de nulidad
+301	Recurso de reposición
+302	Recurso de aclaratoria
+303	Recurso de apelación, efectos
+304	Ejecutoria de la sentencia
+305	Indemnización por error judicial
+307	Reinserción social del condenado
+308	Medidas de seguridad
+309	Internación psiquiátrica
+310	Inimputabilidad por enfermedad mental
+311	Menores inimputables
+312	Adolescentes en conflicto con la ley penal
+313	Responsabilidad penal juvenil
+315	Medidas socioeducativas
+319	Inhabilitación para cargos públicos
+320	Expulsión del país por condena penal
+321	Cooperación penal internacional
+322	Asistencia jurídica internacional
+325	Libertad anticipada
+326	Control jurisdiccional en ejecución
+327	Plazo para interponer excepciones
+328	Audiencia de revisión de medidas
+329	Incidente de oposición
+330	revisión de medida cautelar
+331	Control de acusación, plazo
+333	Control jurisdiccional en juicio oral
+334	Medios de impugnación en etapa intermedia
+335	Audiencia preliminar, control de legalidad
+337	Ofrecimiento de pruebas, inadmisibilidad
+338	Prueba documental, requisitos formales
+339	Lesión culposa
+341	Coacción grave
+342	Amenaza de muerte
+345	Secuestro agravado
+346	Tráfico internacional de estupefacientes
+348	Tenencia de drogas con fines de venta
+349	Microtráfico
+352	Cadena de custodia, Quebrantamiento
+354	Reconocimiento en rueda
+356	Allanamiento domiciliario, Requisitos
+357	Interceptación de comunicaciones
+359	Detención arbitraria
+360	Arresto domiciliario
+362	Plazo de investigación fiscal
+363	Cierre de investigación
+364	Audiencia preliminar
+365	Audiencia de imposición de medidas
+366	Sustitución de prisión preventiva
+368	Recurso de revisión
+369	Recurso de Revocatoria
+370	Reapertura de investigación
+371	Acumulación de causas
+373	Competencia territorial
+374	Competencia funcional
+375	Inhibición de juez
+376	Excusación de juez
+378	Pericia balística
+380	Inspección ocular
+381	Levantamiento de cadáver
+382	Autopsia judicial
+384	Imputación indebida
+387	Agravante alevosía
+391	Prescripción de la pena
+392	Caducidad de la acción
+393	Non bis in idem
+395	Indubio pro reo
+396	Legalidad del proceso
+397	Lesividad
+399	Reformatio in peius
+400	Error de tipo
+401	Dolo eventual
+402	Culpa consciente
+403	Inimputabilidad
+406	Obediencia debida
+408	Tentativa real
+410	Coautoría
+411	Delación premiada
+413	Crimen de lesa humanidad
+414	Genocidio
+415	Desaparición forzada
+417	Sabotaje informático
+418	Acceso ilícito a sistemas
+419	Falsificación de documentos privados
+420	Uso de documento falso
+424	Enriquecimiento ilícito
+426	Cohecho pasivo agravado
+429	Narcotráfico fluvial
+430	Narcotráfico terrestre
+433	Confiscación de bienes
+434	Extinción de dominio
+436	Embargo preventivo
+437	Secuestro de bienes
+438	Nulidad absoluta, Prueba ilícita
+439	Nulidad relativa, Defectos formales
+440	Plazo razonable del proceso
+441	Duración máxima de la prisión preventiva
+445	Valoración de la prueba
+446	Sentencia condenatoria fundamentación
+448	Libertad condicional anticipada
+500	Pena mínima
+501	Delito tentado
+502	Crimen tentado
+503	Violencia Familiar
+504	Lavado de dinero
