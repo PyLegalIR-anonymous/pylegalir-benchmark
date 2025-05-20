@@ -113,6 +113,17 @@ Models are evaluated using:
 
 Evaluation is based on the queries_54.tsv and qrels_54.tsv files. These should not be used for training. Use silver labels from inpars/ and synthetic_llm_dense/ instead.
 
+## License
+
+The **code** (`src/`) in this repository is released under the [MIT License](https://opensource.org/licenses/MIT).  
+You are free to use, modify, and distribute it with proper attribution.
+
+The **dataset** (`data/`) is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
+This means you may share and adapt the data for any purpose, including commercial use, as long as you give appropriate credit.
+
+Please cite our paper if you use this benchmark in your work.
+
+
 ## 📜 Citation
 
 If you use PyLegalIR in your research, please cite:
