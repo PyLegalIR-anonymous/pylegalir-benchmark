@@ -4,7 +4,7 @@ PyLegalIR is the first benchmark dataset for legal information retrieval in Span
 This repository contains the dataset, synthetic silver labels, and code to evaluate retrieval models on PyLegalIR.
 
 ## Updates
-- Link to new version of dataset containing 64k legal cases of the Supreme Court of Paraguay:
+- Link to a new version of the dataset containing 64k legal cases of the Supreme Court of Paraguay:
 https://drive.google.com/file/d/1BE7mxj3k-SlsMa8g9taLA_VXNN5IR9fj/view?usp=drive_link
 
 ## 📂 Repository Structure
